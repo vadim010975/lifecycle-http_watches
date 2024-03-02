@@ -1,0 +1,18 @@
+.world-clock__form {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  margin-bottom: 50px;
+}
+
+.world-clock__form_label, .world-clock__form_input {
+  display: block;
+}
+
+.world-clock__form_input {
+  padding: 5px;
+}
+
+.world-clock__form_btn {
+  padding: 3px;
+}
